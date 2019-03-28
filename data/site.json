@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1552525105/tha6mv9lqgiwozj5equm.jpg",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
@@ -11,15 +11,15 @@
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
-      "linkcont": "032000333555",
-      "videoid": "264108042",
+      "email": "Pulmer@ERAShields.com",
+      "linkcont": "719-593-1000",
+      "videoid": "234567208",
       "sliderbg": "/img/sliderbg.jpg"
     }
   ],
   "about": [
     {
-      "abouttext1": "Crystal Park - FMC ",
+      "abouttext1": "Broadmoor Valley",
       "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
       "aboutbg": "/img/content_bg.png"
     }
